@@ -1,16 +1,14 @@
-### Hi there 👋
+# Tongjie Wang (WANGJIEKE)
 
-<!--
-**WANGJIEKE/WANGJIEKE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About 关于我
 
-Here are some ideas to get you started:
+- 熟悉Python，C，C++，Java，JavaScript，Objective-C和Swift等编程语言
+- Chinese (native speaker), English (proficient)
+- 第一人称射击游戏/FPS Game✅
+- 动画/Anime✅
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Links 链接
+
+- [Blog](https://WANGJIEKE.github.io)
+- [Bilibili](https://space.bilibili.com/2712915)
+- [Resume/简历](https://wangjieke.github.io/assets/about/TongjieWang_Resume.pdf)
