@@ -7,6 +7,6 @@
 
 ### Links 链接
 
-- [Blog](https://WANGJIEKE.github.io)
-- [Bilibili](https://space.bilibili.com/2712915)
 - [Resume/简历](https://wangjieke.github.io/assets/about/TongjieWang_Resume.pdf)
+- [Bilibili](https://space.bilibili.com/2712915)
+- [GitHub Page](https://WANGJIEKE.github.io)
