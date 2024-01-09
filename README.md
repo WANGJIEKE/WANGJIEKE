@@ -10,6 +10,7 @@
 
 ### Links
 
+- [Resume](./TongjieWang_Resume.pdf)
 - [LinkedIn](https://linkedin.com/in/tongjiew)
 - [GitHub Page](https://WANGJIEKE.github.io)
 
